@@ -1,4 +1,4 @@
-# Reset Windows Update Tool - Lite
+# Reset Windows Update Tool
 
 [![GitHub Release](https://img.shields.io/github/v/release/wureset-tools/script-wureset)](https://github.com/wureset-tools/script-wureset/releases/tag/v10.5.5)
 [![GitHub Release Date](https://img.shields.io/github/release-date/wureset-tools/script-wureset)](https://github.com/wureset-tools/script-wureset/releases/tag/v10.5.5)
